@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "noImplicitAny": true,
+    "module": "esnext",
+    "target": "es2021",
+    "allowJs": true,
+    "declaration": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+    "declarationDir": "./types",
+    "allowSyntheticDefaultImports": true,
+    "lib": [
+      "es2016",
+      "dom",
+      "ES2021.String",
+      "ESNext.Array"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "string": {
+    "Drive": "Unidad",
+    "Drives": "Unidades",
+    "Grid": "Red",
+    "File": "Archivo",
+    "FileVersion": "Versión del archivo",
+    "FileVersions": "Versiones de archivos",
+    "Folder": "Carpeta",
+    "Resource": "Recurso",
+    "Name": "Nombre",
+    "Description": "Descripción",
+    "Parent": "Padre",
+    "Path": "Ruta",
+    "Version": "Versión",
+    "Size": "Tamaño",
+    "ContentType": "Tipo de contenido",
+    "LastModified": "Última modificación",
+    "Download": "Descargar",
+    "Upload": "Subir",
+    "CreateDrive": "Crear unidad",
+    "CreateFolder": "Crear carpeta",
+    "UploadFile": "Subir archivos",
+    "EditDrive": "Editar unidad",
+    "Rename": "Renombrar",
+    "Restore": "Restaurar",
+    "RoleLabel": "Rol",
+    "Root": "/"
+  }
+}
